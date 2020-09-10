@@ -1,0 +1,17 @@
+.header-content {
+  display: flex;
+  align-items: center;
+  .name {
+    margin-right: 6px;
+  }
+  .out {
+    color: skyblue;
+    cursor: pointer;
+  }
+}
+.header-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+}
